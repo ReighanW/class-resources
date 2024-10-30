@@ -4,3 +4,4 @@ This course will cover the foundational technical skills that a journalism desig
 
 This repository contains readings, class exercise assets, and additional resources for use during the course.
 
+# html-markup
